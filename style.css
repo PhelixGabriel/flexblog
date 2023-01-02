@@ -208,9 +208,7 @@ img {
     margin: 10px;
 }
 
-.preco-item a {
-   color: #7c7c7c;
-}
+
 
 .preco-item h2 {
     font-size: 3rem;
@@ -269,6 +267,7 @@ img {
     font-size: 2.25rem;
     padding: 15px 0;
     text-align: center;
+    color: #7c7c7c;
 }
 
 @media(max-width: 800px) {
